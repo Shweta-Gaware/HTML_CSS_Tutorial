@@ -1,0 +1,12 @@
+.week{
+    color: brown;
+    font-size: 25px;
+}
+.work{
+    color: cadetblue;
+    font-size: 20px;
+    font-style: italic;
+}
+.work:hover{
+    color: orange;
+}
